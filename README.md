@@ -19,9 +19,9 @@
 
 ### Mobile View
 
-<img src="./screenshots/picture3.png"  width="1000"  height="500"/>
+<img src="./screenshots/picture3.png"  width="500"  height="500"/>
 <hr>
-<img src="./screenshots/picture5.png"  width="1000"  height="500"/>
+<img src="./screenshots/picture5.png"  width="500"  height="500"/>
 <hr>
-<img src="./screenshots/picture7.png"  width="1000"  height="500"/>
+<img src="./screenshots/picture7.png"  width="500"  height="500"/>
 <hr>
