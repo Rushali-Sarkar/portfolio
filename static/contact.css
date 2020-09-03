@@ -1,0 +1,137 @@
+body {
+	background-image: linear-gradient(to right, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+}
+
+.foot {
+	padding: 3%;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+}
+
+.goback {
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+
+.index {
+	color: white;
+	text-decoration: none;
+	margin: 1%;
+	padding: 1%;
+}
+
+.index:hover {
+	text-decoration: none;
+	border: 2px solid #000000;
+	color: #000000;
+	background-color: #ffffff;
+}
+
+@media only screen and (min-width: 700px) {
+.goback {
+	font-size: 60px;
+}
+}
+
+#left, #right {
+	display: block;
+	width: 100%;
+	margin: 5%;
+	margin-left: 0%;
+	padding: 5%;
+	font-size: 20px;
+	color: #ffffff;
+	border: 5px solid #ffffff;
+	text-align: center;
+}
+
+@media only screen and (min-width: 1200px) {
+#left, #right {
+	display: inline-block;
+	width: 43.5%;
+	margin: 3%;
+	padding: 2%;
+	border: 2px solid #ffffff;
+	font-size: 40px;
+}
+#left {
+	position: relative;
+	z-index: 1;
+	left: 20%;
+	text-align: left;
+}
+
+#right {
+	position: absolute;
+	z-index: 2;
+	right: 5%;
+	bottom: 4%;
+	text-align: center;
+	background-image: linear-gradient(to right, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+}
+
+#fontsize {
+	font-size: 100px;
+}
+}
+
+.links {
+	text-decoration: none;
+	color: #ffffff;
+	padding: 1%;
+	padding-left: 3%;
+	padding-right: 3%;
+	margin: 1%;
+}
+
+.links:hover {
+	text-decoration: none;
+	background-color: #ffffff;
+}
+
+#facebook:hover {
+	color: #3b5998;
+	border: 2px solid #3b5998;
+}
+
+#instagram:hover {
+	color:  #FD1D1D;
+	border: 2px solid #FD1D1D;
+}
+
+#twitter:hover {
+	color:  #00acee;
+	border: 2px solid #00acee;
+}
+
+#telegram:hover {
+	color:  #0088CC;
+	border: 2px solid #0088CC;
+}
+
+#whatsapp:hover {
+	color:  #25d366;
+	border: 2px solid #25d366;
+}
+
+#linkedin:hover {
+	color:  #0e76a8;
+	border: 2px solid #0e76a8;
+}
+
+#email:hover {
+	color:  #D44638;
+	border: 2px solid #D44638;
+}
+
+#phone:hover {
+	color:  #000000;
+	border: 2px solid #000000;
+}
+
+
+
+
+
