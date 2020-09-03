@@ -8,7 +8,7 @@
 
 ### Desktop View
 
-<img src="./screenshots/picture1.png"  width="500"/>
+<img src="./screenshots/picture1.png"  width="600"  height="1000"/>
 <hr>
 <img src="./screenshots/picture2.png"  width="500"/>
 <hr>
