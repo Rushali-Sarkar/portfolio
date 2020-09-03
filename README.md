@@ -9,17 +9,19 @@
 ### Desktop View
 
 <img src="./screenshots/picture1.png"  width="500"/>
-
+<hr>
 <img src="./screenshots/picture2.png"  width="500"/>
-
-<img src="./screenshots/picture3.png"  width="500"/>
-
+<hr>
 <img src="./screenshots/picture4.png"  width="500"/>
-
-<img src="./screenshots/picture5.png"  width="500"/>
-
+<hr>
 <img src="./screenshots/picture6.png"  width="500"/>
-
-<img src="./screenshots/picture7.png"  width="500"/>
+<hr>
 
 ### Mobile View
+
+<img src="./screenshots/picture3.png"  width="500"/>
+<hr>
+<img src="./screenshots/picture5.png"  width="500"/>
+<hr>
+<img src="./screenshots/picture7.png"  width="500"/>
+<hr>
